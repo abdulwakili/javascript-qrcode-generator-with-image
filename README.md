@@ -31,7 +31,7 @@ If you have issues / suggestions / notes / questions, please open an issue or co
         height: 300,
         type: "svg",
         data: "https://github.com/abdulwakili/",
-        image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+        image: "https://github.com/abdulwakili/javascript-qrcode-generator-with-image/qr.svg",
         dotsOptions: {
             color: "#2575e1",
             type: "rounded"
@@ -96,7 +96,7 @@ const options = {
     height: 300,
     type: "svg",
     data: "https://github.com/abdulwakili/",
-    image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    image: "https://github.com/abdulwakili/javascript-qrcode-generator-with-image/qr.svg",
     dotsOptions: {
         color: "#2575e1",
         type: "rounded"
