@@ -288,6 +288,3 @@ qrCodeSvgWithBlobImage.getRawData("svg").then((buffer) => {
 
 ```
 
-### License
-
-[MIT License](https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/LICENSE). Copyright (c) 2021 Denys Kozak
