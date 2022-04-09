@@ -94,18 +94,19 @@ const fs = require("fs");
 const options = {
     width: 300,
     height: 300,
-    data: "https://www.facebook.com/",
+    type: "svg",
+    data: "https://github.com/abdulwakili/",
     image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
     dotsOptions: {
-        color: "#4267b2",
+        color: "#2575e1",
         type: "rounded"
     },
     backgroundOptions: {
-        color: "#e9ebee",
+        color: "#ffffff",
     },
     imageOptions: {
         crossOrigin: "anonymous",
-        margin: 20
+        margin: 10
     }
 }
 
